@@ -1,0 +1,4 @@
+Model,Top-K,Hit Rate,NDCG
+Popularity Baseline,@5,0.3174,0.2204
+Popularity Baseline,@10,0.4735,0.2705
+Popularity Baseline,@20,0.6709,0.3201

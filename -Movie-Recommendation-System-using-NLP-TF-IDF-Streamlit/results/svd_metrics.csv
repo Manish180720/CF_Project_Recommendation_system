@@ -1,0 +1,4 @@
+Model,Top-K,Hit Rate,NDCG
+SVD Matrix Factorization,@5,0.4413,0.3194
+SVD Matrix Factorization,@10,0.6071,0.3732
+SVD Matrix Factorization,@20,0.7535,0.41

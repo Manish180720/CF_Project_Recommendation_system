@@ -1,0 +1,7 @@
+Model,Top-K,Hit Rate,NDCG
+SVD Matrix Factorization,@5,0.4413,0.3194
+SVD Matrix Factorization,@10,0.6071,0.3732
+SVD Matrix Factorization,@20,0.7535,0.41
+Popularity Baseline,@5,0.3174,0.2204
+Popularity Baseline,@10,0.4735,0.2705
+Popularity Baseline,@20,0.6709,0.3201
